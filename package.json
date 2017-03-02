@@ -1,0 +1,27 @@
+{
+  "name": "edgemicro-plugins-volos-cache-memory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swilliams11/edgemicro-plugins-volos-cache-memory.git"
+  },
+  "keywords": [
+    "edgemicro",
+    "volos-cache-memory"
+  ],
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/swilliams11/edgemicro-plugins-volos-cache-memory/issues"
+  },
+  "dependencies": {
+    "debug": "^2.2.0",
+    "volos-cache-memory": "latest"
+  },
+  "homepage": "https://github.com/swilliams11/edgemicro-plugins-volos-cache-memory#readme"
+}
